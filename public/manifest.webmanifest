@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "사이 — 이름 없이 나누는 마음",
+  "short_name": "사이",
+  "description": "이름은 잠시 내려놓고, 마음을 나누는 익명 이야기 공간",
+  "lang": "ko",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f9f6",
+  "theme_color": "#f8f9f6",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
